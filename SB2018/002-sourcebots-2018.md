@@ -1,6 +1,7 @@
 ---
 to: all teams
 subject: SourceBots 2018
+send: 2017-11-21
 ---
 
 Hi,
