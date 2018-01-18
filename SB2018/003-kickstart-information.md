@@ -1,6 +1,7 @@
 ---
 to: all teams
 subject: Kickstart Information
+send: 2017-12-07
 ---
 
 Hi!

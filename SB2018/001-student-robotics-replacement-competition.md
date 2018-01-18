@@ -1,6 +1,7 @@
 ---
 to: All teams
 subject: Student Robotics Replacement Competition
+send: 2017-11-06
 ---
 
 Hi All,
