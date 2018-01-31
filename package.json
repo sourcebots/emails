@@ -2,7 +2,7 @@
   "name": "emails",
   "description": "A history of communication with teams.",
   "scripts": {
-    "test": "mdspell --en-gb -ranx '**/*.md'"
+    "test": "mdspell --en-gb -ranx 'SB2018/*.md'"
   },
   "repository": {
     "type": "git",
